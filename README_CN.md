@@ -1,4 +1,4 @@
-# WebIDE
+# WebIDE ![Stone Badge](https://stone.professorlee.work/api/stone/h465855hgg/WebIDE)
 
 ![Version](https://img.shields.io/badge/version-0.3.1-blue?style=flat-square)
 [![Language](https://img.shields.io/badge/Language-Kotlin-blue?style=flat-square)](https://kotlinlang.org/)
